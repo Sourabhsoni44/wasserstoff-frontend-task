@@ -1,0 +1,102 @@
+*{
+    background-color: 
+    #282b30;
+}
+
+.heading{
+    color: yellow;
+    display: flex;
+  }
+  .heading h1{
+    font-size: 3rem;
+  }
+  .heading image{
+    color: yellow;
+
+  }
+  .Event-img {
+    display: flex;
+    gap: 30PX;
+   margin-top: 50px;
+   
+  }
+
+  
+  .Event-img {
+    display: flex;
+    overflow-x: auto; 
+    scroll-snap-type: x mandatory; 
+    -webkit-overflow-scrolling: touch; 
+  }
+  
+  .Event-img img {
+    flex-shrink: 2; 
+    scroll-snap-align: start;
+  }
+  
+  @keyframes slide {
+    0% { transform: translateX(0%); }
+    70% { transform: translateX(20%); }
+   
+  }
+  
+  .Event-img {
+    animation: slide 15s linear infinite; 
+  }
+   
+  
+  .purple{
+    height: 100px;
+    background-color:#b89fff;
+  }
+  .purple-text{
+    display: flex;
+    margin-top: 40px;
+    
+    background-color: #b89fff;
+
+
+  }
+
+  .purple {
+    position: relative; /* Ensure the text animation is relative to the div */
+    overflow: hidden; /* Hide overflow */
+  }
+  
+  .purple-text {
+    animation: slideText 10s linear infinite;
+    white-space: nowrap; /* Prevent text from wrapping */
+    position: absolute; /* Position the text absolutely within the div */
+    top: 0;
+    left: 0;
+  }
+  
+  /* Define animation */
+  @keyframes slideText {
+    0% { transform: translateX(0%); }
+    50% { transform: translateX(-100%); } /* Slide halfway */
+    51% { transform: translateX(100%); } /* Move back to the right */
+    100% { transform: translateX(0%); } /* Return to start */
+  }
+  
+.time{
+  display: flex;
+}
+.Second{
+  color: white;
+}
+.Second h1{
+  font-size: 3rem;
+}
+.Second h2{
+  font-size: 2rem;
+}
+.second-image {
+  margin-top: 30px;
+  display: flex;
+  margin-bottom: 30px;
+}
+.button{
+  display: flex;
+}
+
