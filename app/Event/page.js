@@ -14,19 +14,19 @@ const page = () => {
             decoding="async"
             data-nimg="1"
             class="h-[50px] "
-            src="http://localhost:3000/images/img_user.svg"
+            src="/images/img_user.svg"
           ></img>
 
           <img
             width="200px"
-            src="http://localhost:3000/_next/image?url=%2Fimages%2Fimg_header_logo.png&w=384&q=75"
+            src="/_next/image?url=%2Fimages%2Fimg_header_logo.png&w=384&q=75"
           />
         </div>
         <div className="Event-img">
           <img
             height="630px"
             width="302"
-            src="http://localhost:3000/_next/image?url=%2Fimages%2Fimg_image_12_1.png&w=828&q=75"
+            src="/_next/image?url=%2Fimages%2Fimg_image_12_1.png&w=828&q=75"
           />
           <img
             height="630px"
@@ -75,17 +75,17 @@ const page = () => {
             <img
               height="113"
               width="150"
-              src="http://localhost:3000/_next/image?url=%2Fimages%2Fimg_image_157.png&w=384&q=75"
+              src="/_next/image?url=%2Fimages%2Fimg_image_157.png&w=384&q=75"
             />
             <img
               height="162"
               width="198"
-              src="http://localhost:3000/_next/image?url=%2Fimages%2Fimg_image_159.png&w=384&q=75"
+              src="/_next/image?url=%2Fimages%2Fimg_image_159.png&w=384&q=75"
             />
             <img
               height="113"
               width="150"
-              src="http://localhost:3000/_next/image?url=%2Fimages%2Fimg_image_158.png&w=384&q=75"
+              src="_next/image?url=%2Fimages%2Fimg_image_158.png&w=384&q=75"
             />
           </div>
 
