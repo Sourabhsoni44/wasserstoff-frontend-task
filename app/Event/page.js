@@ -31,17 +31,17 @@ const page = () => {
           <img
             height="630px"
             width="302"
-            src="https://s3-alpha-sig.figma.com/img/11ff/a468/17a9a8d438bc26d999399303984cfe8f?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Oidpq2c6ylQmXYkcPmoCuiuKnW5qQhptelnunkhlOpUAc-8Gcg~M51b251pA2Kf78jeV~ot7hgi8V24nTZX~skSo~2w~dyRaoVd66UXMTDz7TKLFiIVCFEyptu-I1ewSqRAul3eRb1~ZrFfALFWZGY7RUjrioDuIaox2vye5ILSxbE5o~Sh8GtMBNH6kfYLbtebsbf~j9dSMwq8uxQh-ZRPFQB2Cmw03JxseeXTLnnjWJz0PE51eBd2DdOoQcw9lG30PKm2uuo0s3bCHLaqTTkIcLVlumyo~VmjKOTTnFnvrFi~W~X-kV28GnCZxAL0nBW-u2OVOwwMwWOgySLPFUA__"
+            src="/_next/image?url=%2Fimages%2Fimg_image_13_630x412.png&w=828&q=75"
           />
           <img
             height="630px"
             width="302"
-            src="https://s3-alpha-sig.figma.com/img/fb8b/2fd2/623295a745f3ba3642df99e02acf9e5e?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OLNqPPttm6gcPfYKky~u4z~1YSXS5DFTl19sdex0X8Vv4E86Pmcdxsf6ry8tXc3hSAnJWUx~ju2t1mYvHDyADweRPGTcgq8nLplluIYTbVlC9NX6~1072WAa61zIUeBy15l1LqHlsDN~0eW7WCEsUc3CHlBBwqd8-sTXZe0YC1~mZtqB7ElFChKw~lWojCCXD7PfAL-niI23QuiBAdHv8rtvpjmdPV9nWoKRhdu5uDHp~HVl-7YKV3BYdx3-8X8ZNo3u~uR~e~9NoxB3Sn9gI5sQLwpK3aKXDD34sF0d9tBICH1QzdD2-Ic-xIl4KgLf52d6NnNd1-jf3vQfbF4pSw__"
+            src="/_next/image?url=%2Fimages%2Fimg_image_14_630x296.png&w=828&q=75"
           />
           <img
             height="630px"
             width="302"
-            src="https://s3-alpha-sig.figma.com/img/162c/fe4e/e0e893f3f2438ff89d9770ba7e1099a6?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ces52P-SXnlixY6XQMuoUGlo~v4GKNED0B2aIokWVNG~7sNwwjFMgBtyDqA0iv-3iS879mVgnXgB6HjzRiVtGU4E3troY~bXz7iLQwUPgkl~jHvMNhqz740pYlVDc7Xo4izGL6Uy97vQtUW1fjKMkiaEvONEjMUnquKUZYfDOw6nC4JIYdt7bO8E7P-eOahIWs3Ah7sZtBuPQGkhiLgJrp~Ub63KssUdSxwoupJzlatyY33fXDrcIlyz~KZ8r3TOO1chxKn7N5cuRRZWgCxg8TRd5rPPNXHfnlBSx8uGLd9aSZ0xlX8S8KzGTX6tvjH2n0Awz8qX9MOsuK~bJmO6NQ__"
+            src="/_next/image?url=%2Fimages%2Fimg_image_12.png&w=828&q=75"
           />
         </div>
 
